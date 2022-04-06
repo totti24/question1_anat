@@ -51,6 +51,7 @@ def video_to_frames(vid_path: str, start_second, end_second):
 
 def main():
     song_path = r'C:\Users\tmassas\Desktop\semster 6\anat\wet_1\given_data\MilkyChance_StolenDance.mp4'
+    print("2")
     return 0
 
 
